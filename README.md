@@ -32,5 +32,5 @@ Vorteil ist dass alle Versionen eines z.B. Softwareprojekts mit den einzelnen Qu
 Ein Repository ist ein Verzeichnis zur Beschreibung und Speicherung eines Projektes auf einem GIT. Ein Repository wird im Markdown-Format geschrieben.
 
 ### Markdown  
-Markdown soll dabei helfen möglichst einfach und schnell einen Text zu schreiben und ihn gleichzeitig ohne viel Aufwand zu Formatieren
+Markdown soll dabei helfen möglichst einfach und schnell einen Text zu schreiben und ihn gleichzeitig ohne viel Aufwand zu Formatieren. Eine kleine Anleitung gibt es unter diesen Link: [Mastering Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines)
 
